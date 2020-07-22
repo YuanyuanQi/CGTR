@@ -3,7 +3,7 @@ Yuanyuan Qi, Jiayue Zhang, Songyan Liu, Weiran Xu and Jun Guo. CGTR: Convolution
 
 Paper at: link?
 
-In this paper, we take the advantage of Graph Convolutional Networks (GCN) to model global word-relation structure of a document to improve context-aware
+tl;dr In this paper, we take the advantage of Graph Convolutional Networks (GCN) to model global word-relation structure of a document to improve context-aware
 document ranking.
 
 If you use this work, please cite as: bibtex
